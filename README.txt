@@ -1,3 +1,20 @@
+
+This project is part of Databases I course where in :-
+
+Milestone 1 : Design the EERD according to the given description and translate it to its corresponding relational schema.
+
+Milestone 2 : Implement the relational schema designed in milestone 1 using below Java & PostegreSQL.
+
+- JDBC was used to connect PostgreSQL
+- Explicit transaction management was used to commit changes to the database to help maintain data integrity.
+
+Each schema java class contains a main method which serves as the entry point.
+It first registers the PostgreSQL JDBC driver, establishes a connection to the database, and then calls the insertSchemaX method relatively to populate the database.
+
+
+---------------------------------------------------------------
+
+
 Schema 1
 Data Inserted:
 15 Departments inserted CS1-CS15
