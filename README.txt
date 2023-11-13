@@ -1,9 +1,9 @@
 
 This project is part of Databases I course where in :-
 
-Milestone 1 : Design the EERD according to the given description and translate it to its corresponding relational schema.
+Milestone 1 : Designed EERDs according to the given description and translated it to its corresponding relational schemas.
 
-Milestone 2 : Implement the relational schema designed in milestone 1 using below Java & PostegreSQL.
+Milestone 2 : Implemented the relational schemas designed using Java & PostegreSQL.
 
 - JDBC was used to connect PostgreSQL
 - Explicit transaction management was used to commit changes to the database to help maintain data integrity.
